@@ -1,0 +1,17 @@
+h1{
+    color: darkred;
+    font-style: unset;
+
+}
+body{
+    background-color: bisque;
+}
+p.carta{
+    position: relative;
+    top: 150px;
+}
+img.carta{
+    position: relative;
+    top: 150px;
+    left: 100px;
+}
