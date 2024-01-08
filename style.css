@@ -12,6 +12,26 @@ p.carta{
 }
 img.carta{
     position: relative;
-    top: 150px;
+    top: 0px;
+    left: 65px;
+}
+p.cafes{
+    position: relative;
+    top: 25px;
+    left: 250px;
+}
+img.cafe{
+    position: relative;
+    top: 25px;
+    left: 315px;
+}
+p.contacto{
+    position: relative;
+    top: 50px;
+    left: 450px;
+}
+img.contacto{
+    position: relative;
+    top: 50px;
     left: 100px;
 }
